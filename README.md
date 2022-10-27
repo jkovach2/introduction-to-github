@@ -277,3 +277,4 @@ Get help: [Post in our discussion board](https://github.com/skills/.github/discu
 
 testing RStudio
 Tag you're it
+Update Readme for testing terminal
